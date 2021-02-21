@@ -1,0 +1,11 @@
+body {
+    background-color:lightskyblue;
+}
+img {
+    height:400px;
+    width:600px;
+}
+.title {
+    border-style:solid;
+    background-color:lightblue;
+}
